@@ -1,0 +1,42 @@
+body{
+    overflow: hidden;
+    text-align: center;
+    background: url("game.jpg")no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+h2{
+    justify-content: center;
+
+}
+.btn{
+    border: 3px solid black;
+    border-radius: 20%;
+    height: 200px;
+    width: 200px;
+    margin: 2.5rem;
+}
+.yellow{
+    background-color: #f99b45;
+}
+.red{
+    background-color: #d95980;
+}
+.green{
+    background-color: #63aac0;
+}
+.purple{
+    background-color: #819;
+}
+.line_one{
+    display: flex;
+    justify-content: center;
+}
+.line_two{
+    display: flex;
+    justify-content: center;
+}
+.flash{
+    background-color: white;
+}
